@@ -1,0 +1,17 @@
+---
+title: "Welcome!"
+output: html_document
+---
+
+```{r setup, include=FALSE, fig.align='center'}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+There is nothing here yet...
+
+
+But you can look at my horse!
+My horse is amazing!
+
+
+![](images/my_horse.jpg){width=250px}
